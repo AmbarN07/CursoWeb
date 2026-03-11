@@ -45,7 +45,7 @@ WARNING!!! WARNING!!!
       helloSpeaker.speak(names[i]);
     }
   }
-})();
+})
 // STEP 10: (NOTHING TO DO. ALREADY DONE FOR YOU)
 // Loop over the names array and say either 'Hello' or "Good Bye"
 // using either the helloSpeaker's or byeSpeaker's 'speak' method.
@@ -73,3 +73,4 @@ for (var i = 0; i < names.length; i++) {
   }
 }
 
+();
